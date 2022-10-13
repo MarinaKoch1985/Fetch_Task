@@ -1,0 +1,11 @@
+.card {
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aqua;
+    width: 200px;
+}
+.container {
+    display: flex;
+}

@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    border: 1px solid black;
+    background-color: lightseagreen;
+    padding: 10px;
+    border-radius: 10px;
+}
